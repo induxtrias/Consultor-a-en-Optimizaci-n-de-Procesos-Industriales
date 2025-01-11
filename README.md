@@ -40,7 +40,7 @@ Si estás interesado en obtener más información o en contratar mis servicios d
 
 
 - Correo electrónico: induxtrias@proton.me
-- Nuestra web https://induxtrias.github.io/consultora-industria/
+- Nuestra web https://induxtrias.github.io/consultora-industria-web/
   
 
 ## Proyectos Relacionados
